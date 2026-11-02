@@ -1,33 +1,31 @@
 # 👋 Hi, I'm Rakibul Islam
 
-### Aspiring Software Engineer | CSE Student | Exploring AI Security
+### Aspiring Software Engineer | CSE Student
 
-**Learning the fundamentals. Building with purpose. Preparing for the future of intelligent software.**
+**Learning the fundamentals. Building with purpose. Growing through consistency.**
 
-I'm a Computer Science and Engineering student interested in software engineering, artificial intelligence, and cybersecurity.
+I'm a Computer Science and Engineering student passionate about software development, problem-solving, and building useful technology.
 
-Currently, I'm focused on strengthening my computer science fundamentals, improving my software development skills, and learning how to build reliable, scalable, and secure software systems.
-
-My long-term interests lie at the intersection of **Software Engineering, AI Engineering, and Cybersecurity**, particularly AI Security and Large Language Model (LLM) Security.
+Currently, I'm focused on strengthening my computer science fundamentals, improving my programming skills, and developing practical software projects.
 
 - 🌱 Currently strengthening my **Software Engineering fundamentals**
-- 💻 Exploring programming, software development, and practical problem-solving
-- 🤖 Interested in **AI Engineering and AI-powered products**
-- 🔐 Long-term focus: **AI Security & LLM Security**
+- 💻 Exploring programming, software development, and problem-solving
+- 🧠 Interested in writing clean, efficient, and maintainable code
 - 📚 Learning continuously and documenting my technical journey
-- 🎯 Aspiring to become a well-rounded Software Engineer
+- 🚀 Focused on becoming a skilled Software Engineer
 
 ---
 
 ## 🧭 Areas of Interest
 
-| Domain | Areas I'm Exploring |
-|---|---|
-| Software Engineering | Software design, architecture, development |
-| Computer Science | Programming, algorithms, data structures |
-| AI Engineering | AI applications, intelligent systems, LLMs |
-| Cybersecurity | Application security, security fundamentals |
-| AI Security | LLM security, AI application security |
+- Software Engineering
+- Software Development
+- Full-Stack Web Development
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Database Management Systems
+- Problem Solving
+- Software Design & Architecture
 
 ---
 
@@ -59,39 +57,14 @@ My long-term interests lie at the intersection of **Software Engineering, AI Eng
 
 ## 📂 What You'll Find Here
 
-This GitHub profile is my public learning and development space.
+This GitHub profile is my personal learning and development space.
 
-- **Learning Repositories:** Notes, exercises, and programming concepts.
-- **Practice Projects:** Practical implementations of concepts I'm learning.
+- **Learning Repositories:** Programming notes, exercises, and concepts.
+- **Practice Projects:** Practical implementations of what I learn.
 - **Software Projects:** Applications and experiments built along the way.
-- **AI & Security Exploration:** Future projects and research around AI engineering and AI security.
+- **Documentation:** My learning process, technical notes, and discoveries.
 
-I'm continuously improving these repositories as my knowledge and experience grow.
-
----
-
-## 🎯 My Learning Direction
-
-```text
-Computer Science Fundamentals
-           |
-           v
-     Software Engineering
-           |
-           v
-      AI Engineering
-           |
-           v
-     Cybersecurity
-           |
-           v
-       AI Security
-           |
-           v
-     LLM Security
-```
-
-I'm particularly interested in understanding how AI-powered applications work, how they can be developed responsibly, and how they can be protected against emerging security threats.
+I'm continuously improving my repositories as my knowledge and experience grow.
 
 ---
 
@@ -112,15 +85,15 @@ I'm particularly interested in understanding how AI-powered applications work, h
 - Understanding over memorization.
 - Building over merely consuming.
 - Learning from mistakes and improving continuously.
-- Staying curious in an ever-changing technology landscape.
+- Staying curious and embracing lifelong learning.
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm always open to connecting with developers, engineers, learners, and technology enthusiasts.
+I'm always interested in connecting with developers, engineers, students, and technology enthusiasts.
 
-Interested in discussing software engineering, AI, cybersecurity, learning, or building something meaningful? Feel free to reach out.
+Interested in discussing software development, programming, problem-solving, or sharing ideas? Feel free to reach out.
 
 **Let's learn, build, and grow together.**
 

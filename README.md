@@ -16,19 +16,6 @@ Currently, I'm focused on strengthening my computer science fundamentals, improv
 
 ---
 
-## 🧭 Areas of Interest
-
-- Software Engineering
-- Software Development
-- Full-Stack Web Development
-- Data Structures & Algorithms
-- Object-Oriented Programming
-- Database Management Systems
-- Problem Solving
-- Software Design & Architecture
-
----
-
 ## 🛠️ Technologies & Tools
 
 **Programming Languages**
